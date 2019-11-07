@@ -4,6 +4,7 @@ A fully decentralized organization, self-funded and built from the ground up by 
 
 Reach out. Get connected. Make a difference.
 
+old site
 http://socialchangeengine.io/
 
 https://github.com/gumshed/Social-Change-Engine/files/2063692/Flow.Update.Full.612018.pdf
